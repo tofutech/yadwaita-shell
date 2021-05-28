@@ -1,3 +1,5 @@
 install:
-	mkdir -p /home/$(USER)/.themes
-	cp -r ./* /home/$(USER)/.themes
+	mkdir -p $(HOME)/.themes
+	cp -r ./Yadwaita* $(HOME)/.themes
+uninstall:
+	rm -rf $(HOME)/.themes/Yadwaita*/
