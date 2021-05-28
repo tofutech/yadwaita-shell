@@ -1,3 +1,3 @@
-**Yadwaita Shell**
+# **Yadwaita Shell**
 
 Yadwaita GNOME Shell theme.
