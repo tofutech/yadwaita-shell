@@ -8,4 +8,8 @@ Comes in light and dark variants.
 
 # Installation
 
-Drag and drop into /home/username/.themes
+Run Makefile
+
+or
+
+Drag and drop into `/home/username/.themes`
